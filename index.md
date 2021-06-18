@@ -1,6 +1,6 @@
 ## Welcome to my portfolio
 
-# Here I will showcase the work I have done for the past year in college.
+Here I will showcase the work I have done for the past year in college.
 
 You can use the [editor on GitHub](https://github.com/Delphi322/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
