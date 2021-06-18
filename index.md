@@ -28,5 +28,5 @@ Syntax highlighted code block
  and ![Image](src)
 ```
 
-[games](https://github.com/Delphi322/portfolio/games.html)
+[games](https://github.com/Delphi322/portfolio/games.md)
 [Demon Slayer](https://delphi322.github.io/DemonSlayerBuild.html)
